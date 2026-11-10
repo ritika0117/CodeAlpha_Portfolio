@@ -72,7 +72,7 @@ The website is designed to adapt to different screen sizes and provide a consist
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://ritika0117.github.io/)
+[View Live Portfolio](https://ritika0117.github.io/CodeAlpha_Portfolio/)
 
 ---
 
